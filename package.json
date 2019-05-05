@@ -13,7 +13,8 @@
     "react-scripts": "^2.1.8",
     "react-transition-group": "^2.9.0",
     "react-zmage": "^0.7.1",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "react-alert-template-basic": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
